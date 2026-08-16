@@ -1,0 +1,26 @@
+Mayuri Joshi
+
+EDUCATION
+Bachelor of Engineering in Electronics and Computer Science
+VESIT
+Expected Graduation: 2027
+CGPA: 8.53
+
+SKILLS
+Python, SQL, Machine Learning, Data Analysis, Pandas,
+Scikit-learn, Power BI, DAX, Data Visualization,
+CrewAI, LangChain, Streamlit
+
+EXPERIENCE
+Data Science Intern - Addend Analytics
+Worked with SQL, DAX and Power BI.
+Performed data analysis and worked on business datasets.
+
+PROJECTS
+AI Job Hunt Assistant
+Built an AI-powered multi-agent job application assistant using
+CrewAI, Gemini, USAJobs API and Streamlit.
+
+Movie Recommender System
+Built a movie recommendation system using Python,
+Scikit-learn and data analysis techniques.

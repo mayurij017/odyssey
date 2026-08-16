@@ -1,0 +1,21 @@
+# Environment variables
+.env
+utils/.env
+
+# Virtual environments
+.venv/
+.venv312/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated files
+data/report.md
+data/resume_agent_output.txt
+data/message_output.txt
+data/applications_log.csv
+
+# Streamlit
+.streamlit/secrets.toml
